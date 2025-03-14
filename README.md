@@ -24,8 +24,6 @@ The analysis is structured into two key parts:
 - **Pandas & NumPy** – Processes and structures the dataset for analysis.
 - **Jupyter Notebook** – Used for initial development and testing.
 - **HTML (via Jupyter Export)** – Displays the final results in a structured, interactive format.
-
+- 
 ## View the Analysis  
-Click [here](https://raw.githubusercontent.com/sophiaremington/NFL-DraftKings-Optimization-Project/refs/heads/main/FinalProject%20(2).html) to open the **DraftKings Optimization Report**.
-
-
+Click [here](https://sophiaremington.github.io/NFL-DraftKings-Optimization/FinalProject.html) to view the **DraftKings Optimization Report**.
