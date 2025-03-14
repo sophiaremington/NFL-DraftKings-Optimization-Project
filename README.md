@@ -26,6 +26,6 @@ The analysis is structured into two key parts:
 - **HTML (via Jupyter Export)** – Displays the final results in a structured, interactive format.
 
 ## View the Analysis  
-Click [here](FinalProject.html) to open the **DraftKings Optimization Report**.
+Click [here]() to open the **DraftKings Optimization Report**.
 
 
