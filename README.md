@@ -26,6 +26,6 @@ The analysis is structured into two key parts:
 - **HTML (via Jupyter Export)** – Displays the final results in a structured, interactive format.
 
 ## View the Analysis  
-Click [here]() to open the **DraftKings Optimization Report**.
+Click [here](https://raw.githubusercontent.com/sophiaremington/NFL-DraftKings-Optimization-Project/refs/heads/main/FinalProject%20(2).html) to open the **DraftKings Optimization Report**.
 
 
